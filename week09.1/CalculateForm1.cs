@@ -16,5 +16,15 @@ namespace week09._1
         {
             InitializeComponent();
         }
+
+        private void CalculateButtonTableLayoutPanel_Paint(object sender, PaintEventArgs e)
+        {
+
+        }
+
+        private void button12_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }

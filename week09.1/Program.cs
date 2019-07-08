@@ -16,7 +16,7 @@ namespace week09._1
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new CalculateForm1());
+            Application.Run(new CalculateForm());
         }
     }
 }
